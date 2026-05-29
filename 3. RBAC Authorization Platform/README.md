@@ -61,15 +61,15 @@ python app.py
 
 ### Admin Access
 
-![Admin Access Delete Users](screenshots/01_admin.png)
+![Admin Access Delete Users](screenshots/01_admin.jpg)
 
 ### Employee Access Denied
 
-![Employee Denied Task](screenshots/02_employee.png)
+![Employee Denied Task](screenshots/02_employee.jpg)
 
 ### Security Analyst Access
 
-![Analyst Allowed to View Reports](screenshots/03_analyst_reports.png)
+![Analyst Allowed to View Reports](screenshots/03_analyst_reports.jpg)
 
 ## Educational Purpose
 
