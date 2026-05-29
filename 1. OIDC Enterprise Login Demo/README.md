@@ -80,7 +80,7 @@ python app.py
 
 ### 4. Success
 
-![Success](screenshots/04-sucess.png)
+![Success](screenshots/04-sucess.jpg)
 
 ## Educational Purpose
 
