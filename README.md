@@ -11,8 +11,8 @@ It simulates real-world security systems used in cloud platforms such as authent
 ```
 1. OIDC Enterprise Login Demo/          → Google OIDC Authentication Demo
 2. SCIM Provisioning API Demo/          → SCIM-style User Provisioning API
-3. RBAC Authorization Platform/                → Role-Based Access Control (RBAC)
-4. Zero Trust API Gateway Demo/      → API Key + Device Trust Security Model
+3. RBAC Authorization Platform/         → Role-Based Access Control (RBAC)
+4. Zero Trust API Gateway Demo/         → API Key + Device Trust Security Model
 ```
 
 ---
