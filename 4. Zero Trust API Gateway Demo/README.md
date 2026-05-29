@@ -67,7 +67,7 @@ python app.py
 curl -H "X-API-KEY: admin-key" http://127.0.0.1:5000/secure-data
 ```
 
-![Admin Access](screenshots/01_admin.png)
+![Admin Access](screenshots/01_admin.jpg)
 
 ### Employee Access Granted
 
@@ -75,7 +75,7 @@ curl -H "X-API-KEY: admin-key" http://127.0.0.1:5000/secure-data
 curl -H "X-API-KEY: employee-key" http://127.0.0.1:5000/secure-data
 ```
 
-![Employee Access](screenshots/02_employee.png)
+![Employee Access](screenshots/02_employee.jpg)
 
 ### Missing API Key
 
@@ -83,7 +83,7 @@ curl -H "X-API-KEY: employee-key" http://127.0.0.1:5000/secure-data
 curl http://127.0.0.1:5000/secure-data
 ```
 
-![Missing Key](screenshots/03_missing.png)
+![Missing Key](screenshots/03_missing.jpg)
 
 ### Invalid API Key
 
@@ -91,7 +91,7 @@ curl http://127.0.0.1:5000/secure-data
 curl -H "X-API-KEY: wrong" http://127.0.0.1:5000/secure-data
 ```
 
-![Invalid Key](screenshots/04_invalid.png)
+![Invalid Key](screenshots/04_invalid.jpg)
 
 ## Educational Purpose
 
